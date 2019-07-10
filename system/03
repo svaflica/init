@@ -1,0 +1,3 @@
+#vim /etc/hostname
+#
+#to_verify : hostnamectl

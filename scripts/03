@@ -1,0 +1,3 @@
+# To know how many space занимают directories
+#!/bin/sh
+du -sh ~/

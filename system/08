@@ -1,0 +1,6 @@
+#~/.ssh/authorized_keys
+#ssh-keygen -t rsa
+
+It creates a folder ~/.ssh and two files in the folder - id_rsa and id_rsa.pub
+
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys

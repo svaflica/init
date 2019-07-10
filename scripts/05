@@ -1,0 +1,4 @@
+#to update all packages
+#!/bin/bash
+apt-get update
+apt-get upgrade

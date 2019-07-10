@@ -1,0 +1,8 @@
+#traceroute slash16.org
+#
+# 1. Local IP
+# 2. NAT IP
+# 3. Public IP
+#
+# Local IP is our IP
+# NAT is device who remaping Local IP to public IP

@@ -1,0 +1,6 @@
+service ssh stop
+
+#know PID of service ssh by command :
+#		service ssh status
+#and then do the command :
+#       kill PID
